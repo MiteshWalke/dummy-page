@@ -1,0 +1,41 @@
+.container
+{
+	display: flex;
+	height: 200px;
+
+/*	flex-direction: column;
+	flex-wrap: wrap;
+*/justify-content: center;
+/*justify-content: space-around;
+*/
+align-items: flex-end;
+width: 100%
+border-style:solid;
+border-width: 1px;
+border-color: black
+
+}
+.Item
+{
+	width: 50px;
+color:black;}
+.Red
+{
+	background-color: red;
+}
+.green
+{
+	background-color: green;
+}
+.yellow
+{
+	background-color: yellow;
+}
+.blue
+{
+	background-color: blue;
+}
+.grey
+{
+	background-color: grey;
+}

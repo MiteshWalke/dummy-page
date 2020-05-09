@@ -1,0 +1,66 @@
+/*
+p{
+	color: grey;
+	font-size: 22px;
+}
+.styleClassForMoreThanOne
+{
+	color:tomato;
+	font-size: 20px;
+	font-weight: bold;
+}
+#IDForOnluOneElement
+{
+	color:blue;
+	font-size: 36px;
+	font-weight: bolder;
+}
+h1:hover
+{
+	color:yellow;
+}
+	*/
+	/*h1:hover
+	{
+		color:yellow;
+	}
+
+div:visited {
+color: dodgerblue;
+}
+a:active
+{
+	color: green;
+}
+a:visited
+{
+	color: black;
+}
+a::before {
+content: “>>”;
+color: red;
+}
+body{
+	margin:0;
+	padding: 0;
+}
+*/
+.parent
+{
+	background: #FFA9B3;
+	height: 70vh;
+	width: 50vw;
+
+}
+.child
+{
+	background:#147C80;
+	height: 50vh;
+	width:  60vh;
+}
+.second-child
+{
+	background:#378060;
+	height: 3vmax;
+	width:  60vma;
+}

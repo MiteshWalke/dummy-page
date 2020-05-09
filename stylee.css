@@ -1,0 +1,17 @@
+p{
+	color: grey;
+	font-size: 22px;
+}
+.styleClassForMoreThanOne
+{
+	color:tomato;
+	font-size: 20px;
+	font-weight: bold;
+}
+#IDForOnluOneElement
+{
+	color:blue;
+	font-size: 36px;
+	font-weight: bolder;
+}
+
